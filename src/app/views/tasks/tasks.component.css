@@ -1,0 +1,8 @@
+.completed > td:not(:first-child) {
+  text-decoration: line-through;
+  color: #797979;
+}
+
+.novalue {
+  color: #797979;
+}
